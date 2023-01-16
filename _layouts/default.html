@@ -30,7 +30,15 @@
       <div class="footer">
       {% include footer.html %}
       {% include share.html %}
-   <script src="/assets/js/donate.js"></script>
+   <div
+  class="DePayButton" 
+  label="Donate"
+  widget="Donation"
+  configuration='{"accept":[{"blockchain":"ethereum","token":"0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb","receiver":"0x8AAc6b0bE908D7e6449B768aB409A9e0039AbD8F"},{"blockchain":"bsc","token":"0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb","receiver":"0x8AAc6b0bE908D7e6449B768aB409A9e0039AbD8F"}]}'
+/>
+<script src="https://integrate.depay.com/buttons/v9.js"></script>
+<noscript><a href="https://depay.com">Web3 Payments</a> are only supported with JavaScript enabled.</noscript>
+<script>DePayButtons.init({ document });</script>
       </div>
     </div>
   </div>
