@@ -34,7 +34,7 @@ El gordo se la pasó encerrado llorando por dos días, hasta que le golpean la p
 
 -Sí quién es?
 -Dale gordo puto abrí que te quiero contar algo
--Dale boludo pasá
+-Dale boludo pasa
 -Sabes que conseguí novia?
 
 
