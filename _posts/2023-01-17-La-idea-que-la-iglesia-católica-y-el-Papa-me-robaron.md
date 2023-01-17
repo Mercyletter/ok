@@ -1,9 +1,9 @@
  ---
-layout: post
-title: La iglesia católica y el Papa Fransico me robaron un ensayo/idea.
-categories:
-- blog
+
+La iglesia católica y el Papa Fransico me robaron un ensayo/idea.
+
 ---
+
  
 ```javascript
  <entry>
